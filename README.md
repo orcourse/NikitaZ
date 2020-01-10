@@ -1,3 +1,4 @@
-Here you can find my graduted work "Indian Food".
+# Indian Food
+https://orcourse.github.io/NikitaZ_11_19_3/.
 
-Link: https://elviskrop.github.io/Indian-Food-Graduated-Work/
+Курс HTML/CSS , проходил Никита Засимук октябрь-ноябрь 2019 года. Дипломный проект.
